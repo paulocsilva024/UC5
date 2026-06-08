@@ -20,3 +20,11 @@ The book is on the table.
 I am hungry.
 You are very kind.
 My parants are at work.
+
+Negative form - the first five sentences:
+
+My brother isn't tired.
+They aren't at school.
+I am not very happy today.
+My dog is not sleeping.
+We are not ready for the test.
